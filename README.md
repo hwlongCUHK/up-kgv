@@ -69,12 +69,6 @@ pipeline.run()
 # Exports review_items.tsv to outputs/ for human review
 ```
 
-**Simulation mode** (LLM plays the human reviewer, for benchmarking):
-
-```bash
-PIPELINE_MODE=simulation python -m kg_verify.orchestrator
-```
-
 **Enable the two-round ensemble** (recommended for production):
 
 ```bash
