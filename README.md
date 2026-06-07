@@ -101,18 +101,6 @@ kg_verify/
 └── orchestrator.py  # 6-stage pipeline entry point
 ```
 
-## Citation
-
-If you use this code, please cite:
-
-```bibtex
-@article{upkgv2025,
-  title   = {UP-KGV: Uncertainty-Prioritized Knowledge Graph Verification},
-  author  = {[Authors]},
-  year    = {2025}
-}
-```
-
 ## License
 
 MIT

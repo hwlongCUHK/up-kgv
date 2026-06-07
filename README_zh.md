@@ -101,18 +101,6 @@ kg_verify/
 └── orchestrator.py  # 6 阶段流水线入口
 ```
 
-## 引用
-
-如果本代码对您的研究有所帮助，请引用：
-
-```bibtex
-@article{upkgv2025,
-  title   = {UP-KGV: Uncertainty-Prioritized Knowledge Graph Verification},
-  author  = {[Authors]},
-  year    = {2025}
-}
-```
-
 ## 许可证
 
 MIT
